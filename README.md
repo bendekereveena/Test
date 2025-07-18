@@ -1,3 +1,3 @@
 # Test
-We are buiding framework for Linux PyQTK application using Python , Pytest and Sikuli Scripts
-Need proper utility classes to resuse the code
+We are building a framework for a Linux PyQT application using Python, Pytest, and Sikuli Scripts.
+We need proper utility classes to reuse the code.
